@@ -1,0 +1,54 @@
+body {
+    background-color: #18191a;
+}
+p {
+
+}
+
+
+aside ul li {
+    display: inline-block;
+    color: #E4E6EB;
+    font-weight: bold;
+}
+
+
+
+.avatarprofile {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px;
+}
+
+asideavatarsandsuch {
+    border: solid 4px #E4E6EB;
+    background-color: #747474;
+    border-radius: 5px;
+    padding: 1rem;
+    width: 20%;
+    position: fixed;
+    top: 1rem;
+    display: block;
+    margin-right: 1rem;
+}
+.maintexts {
+    padding:1rem;
+    width:60%;
+    float:right;
+    margin-right: 10px;
+}
+.Jules {
+    color: #E4E6EB;
+    border-radius: 15px;
+    background-color: #007AFF;
+    padding: 10px 2px 10px 8px;
+}
+
+.Brett {
+    color: #E4E6EB;
+    border-radius: 15px;
+    background-color: #747474;
+    padding: 10px 2px 10px 8px;
+}
