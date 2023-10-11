@@ -22,8 +22,8 @@ aside ul li {
     margin: 10px;
 }
 
-asideavatarsandsuch {
-    border: solid 4px #E4E6EB;
+.asideavatarsandsuch {
+    border: solid 2px #E4E6EB;
     background-color: #747474;
     border-radius: 5px;
     padding: 1rem;
@@ -47,6 +47,13 @@ asideavatarsandsuch {
 }
 
 .Brett {
+    color: #E4E6EB;
+    border-radius: 15px;
+    background-color: #747474;
+    padding: 10px 2px 10px 8px;
+}
+
+.Vincent {
     color: #E4E6EB;
     border-radius: 15px;
     background-color: #747474;
