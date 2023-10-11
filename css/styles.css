@@ -5,6 +5,16 @@ p {
 
 }
 
+span {
+    margin: 30px;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 25%;
+    margin-left: 25%;
+}
 
 aside ul li {
     display: inline-block;
@@ -19,7 +29,7 @@ aside ul li {
     height: 75px;
     border-radius: 50%;
     display: block;
-    margin: 10px;
+    margin: 15px;
 }
 
 .asideavatarsandsuch {
@@ -31,7 +41,7 @@ aside ul li {
     position: fixed;
     top: 1rem;
     display: block;
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
 .maintexts {
     padding:1rem;
