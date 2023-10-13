@@ -62,21 +62,43 @@ span {
     margin-right: 10px;
 }
 
-.participantbanner img {
+.participantbanner img,
+.participantbanner h2 {
     display: inline-block;
-    float: right;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 
+h2 {
+    color: #E4E6EB;
+    font-size: 20px;
+    font-weight: bold;
+}
 
+.participantbanner {
+    background-color: #18191a;
+    border-top: 1px solid #747474;
+    border-bottom: 1px solid #747474;
+    margin: 5px;
+    padding: 1rem;
+}
 
-
-
+.timestamp {
+    background-color: #18191a;
+    border: 1px solid #E4E6EB;
+    border-radius: 3px;
+    color: #E4E6EB;
+    float: right;
+    padding: 5px;
+    margin: 5px;
+}
 
 .Jules {
     color: #E4E6EB;
     border-radius: 15px;
     background-color: #007AFF;
     padding: 10px 2px 10px 8px;
+    margin: 2px;
 }
 
 .Brett {
@@ -84,6 +106,7 @@ span {
     border-radius: 15px;
     background-color: #747474;
     padding: 10px 2px 10px 8px;
+    margin: 2px;
 }
 
 .Vincent {
@@ -91,6 +114,7 @@ span {
     border-radius: 15px;
     background-color: #747474;
     padding: 10px 2px 10px 8px;
+    margin: 2px;
 }
 
 
